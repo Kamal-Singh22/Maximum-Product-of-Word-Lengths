@@ -17,4 +17,4 @@ Max Product Calculation:
 
 For each unique pair, check compatibility and calculate the product of lengths if valid.
 
-Update maxProduct with the maximum.
+Update maxProduct with the maximum.....
